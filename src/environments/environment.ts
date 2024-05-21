@@ -1,3 +1,3 @@
 export const environment = {
-    apiURL: 'http://localhost:2222' // https://nnnnn
+    apiURL: 'https://server-2024-yek1.onrender.com' // הכתובת של השרת שרץ ברשת
 };
