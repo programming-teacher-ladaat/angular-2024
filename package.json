@@ -6,7 +6,8 @@
     "start": "ng serve -o",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "gh-build": "ng build --output-path docs --base-href /angular-2024/"
   },
   "private": true,
   "dependencies": {
